@@ -1,0 +1,2955 @@
+[
+    {
+        "name": "abo",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 164
+    },
+    {
+        "name": "abra",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 115
+    },
+    {
+        "name": "aéromite",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 17
+    },
+    {
+        "name": "aflamanoir",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 48
+    },
+    {
+        "name": "akwakwak",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 58
+    },
+    {
+        "name": "alakazam",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 117
+    },
+    {
+        "name": "alakazam_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 236
+    },
+    {
+        "name": "amonistar",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 82
+    },
+    {
+        "name": "amonita",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 81
+    },
+    {
+        "name": "amphinobi",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 89
+    },
+    {
+        "name": "anchwatt",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 107
+    },
+    {
+        "name": "aquali",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 80
+    },
+    {
+        "name": "arbok",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 165
+    },
+    {
+        "name": "arcanin",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 40
+    },
+    {
+        "name": "arcanin_ex",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 41
+    },
+    {
+        "name": "arcanin_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 254
+    },
+    {
+        "name": "artikodin",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 83
+    },
+    {
+        "name": "artikodin_ex",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 84
+    },
+    {
+        "name": "artikodin_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 258
+    },
+    {
+        "name": "artikodin_ex_rainbow",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 275
+    },
+    {
+        "name": "aspicot",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 8
+    },
+    {
+        "name": "auguste",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 221
+    },
+    {
+        "name": "auguste_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 268
+    },
+    {
+        "name": "beldeneige",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 93
+    },
+    {
+        "name": "boustiflor",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 19
+    },
+    {
+        "name": "bulbizarre",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 1
+    },
+    {
+        "name": "bulbizarre_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 227
+    },
+    {
+        "name": "cabriolaine",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 31
+    },
+    {
+        "name": "canarticho",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 198
+    },
+    {
+        "name": "caninos",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 39
+    },
+    {
+        "name": "carabaffe",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 54
+    },
+    {
+        "name": "carapuce",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 53
+    },
+    {
+        "name": "carapuce_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 232
+    },
+    {
+        "name": "chenipan",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 5
+    },
+    {
+        "name": "chétiflor",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 18
+    },
+    {
+        "name": "chevroum",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 32
+    },
+    {
+        "name": "chinchidou",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 212
+    },
+    {
+        "name": "chlorobule",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 29
+    },
+    {
+        "name": "chovsourir",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 133
+    },
+    {
+        "name": "chrysacier",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 6
+    },
+    {
+        "name": "coconfort",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 9
+    },
+    {
+        "name": "colossinge",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 142
+    },
+    {
+        "name": "concombaffe",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 90
+    },
+    {
+        "name": "couaneton",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 85
+    },
+    {
+        "name": "croaporal",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 88
+    },
+    {
+        "name": "crustabri",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 67
+    },
+    {
+        "name": "dardargnan",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 10
+    },
+    {
+        "name": "denticrisse",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 91
+    },
+    {
+        "name": "dodrio",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 200
+    },
+    {
+        "name": "doduo",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 199
+    },
+    {
+        "name": "doudouvet",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 27
+    },
+    {
+        "name": "dracaufeu",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 35
+    },
+    {
+        "name": "dracaufeu_ex",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 36
+    },
+    {
+        "name": "dracaufeu_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 253
+    },
+    {
+        "name": "dracaufeu_gold",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1c",
+        "owned": false,
+        "pokedexNumber": 284
+    },
+    {
+        "name": "dracaufeu_immersive",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3e",
+        "owned": false,
+        "pokedexNumber": 280
+    },
+    {
+        "name": "draco",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 184
+    },
+    {
+        "name": "dracolosse",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 185
+    },
+    {
+        "name": "dracolosse_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 244
+    },
+    {
+        "name": "ectoplasma",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 122
+    },
+    {
+        "name": "ectoplasma_ex",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 123
+    },
+    {
+        "name": "ectoplasma_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 261
+    },
+    {
+        "name": "ectoplasma_ex_rainbow",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 277
+    },
+    {
+        "name": "électhor",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 103
+    },
+    {
+        "name": "électhor_ex",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 104
+    },
+    {
+        "name": "électhor_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 260
+    },
+    {
+        "name": "électhor_ex_rainbow",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 276
+    },
+    {
+        "name": "électrode",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 100
+    },
+    {
+        "name": "électrode_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 235
+    },
+    {
+        "name": "élektek",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 101
+    },
+    {
+        "name": "empiflor",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 20
+    },
+    {
+        "name": "erika",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 219
+    },
+    {
+        "name": "erika_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 266
+    },
+    {
+        "name": "évoli_1",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 206
+    },
+    {
+        "name": "évoli_2",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 207
+    },
+    {
+        "name": "évoli_3",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 208
+    },
+    {
+        "name": "évoli_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 248
+    },
+    {
+        "name": "excelangue",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 201
+    },
+    {
+        "name": "fantominus",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 120
+    },
+    {
+        "name": "farfaduvet",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 28
+    },
+    {
+        "name": "férosinge",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 141
+    },
+    {
+        "name": "feunard",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 38
+    },
+    {
+        "name": "flagadoss",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 119
+    },
+    {
+        "name": "florizarre",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 3
+    },
+    {
+        "name": "florizarre_ex",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 4
+    },
+    {
+        "name": "florizarre_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 251
+    },
+    {
+        "name": "fossile_dome",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 217
+    },
+    {
+        "name": "fossile_nautile",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 216
+    },
+    {
+        "name": "fragilady",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 30
+    },
+    {
+        "name": "frissonille",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 92
+    },
+    {
+        "name": "galopa",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 43
+    },
+    {
+        "name": "galopa_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 231
+    },
+    {
+        "name": "galvaran",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 110
+    },
+    {
+        "name": "gardevoir",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 132
+    },
+    {
+        "name": "giovanni",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 223
+    },
+    {
+        "name": "giovanni_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 270
+    },
+    {
+        "name": "golemastoc",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 136
+    },
+    {
+        "name": "goupix",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 37
+    },
+    {
+        "name": "gravalanch",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 148
+    },
+    {
+        "name": "grenousse",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 87
+    },
+    {
+        "name": "grillepattes",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 51
+    },
+    {
+        "name": "gringolem",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 135
+    },
+    {
+        "name": "grodoudou",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 194
+    },
+    {
+        "name": "grodoudou_ex",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 195
+    },
+    {
+        "name": "grodoudou_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 265
+    },
+    {
+        "name": "grodoudou_ex_rainbow",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 279
+    },
+    {
+        "name": "grolem",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 149
+    },
+    {
+        "name": "grotadmorv",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 175
+    },
+    {
+        "name": "herbizarre",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 2
+    },
+    {
+        "name": "hypnomade",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 125
+    },
+    {
+        "name": "hypocéan",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 71
+    },
+    {
+        "name": "hypotrempe",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 70
+    },
+    {
+        "name": "iguolta",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 111
+    },
+    {
+        "name": "insécateur",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 25
+    },
+    {
+        "name": "kabuto",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 158
+    },
+    {
+        "name": "kabutops",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 159
+    },
+    {
+        "name": "kadabra",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 116
+    },
+    {
+        "name": "kangourex",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 203
+    },
+    {
+        "name": "kicklee",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 154
+    },
+    {
+        "name": "kirlia",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 131
+    },
+    {
+        "name": "koga",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 222
+    },
+    {
+        "name": "koga_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 269
+    },
+    {
+        "name": "kokiyas",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 66
+    },
+    {
+        "name": "krabboss",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 69
+    },
+    {
+        "name": "krabby",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 68
+    },
+    {
+        "name": "krakos",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 163
+    },
+    {
+        "name": "kungfouine",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 160
+    },
+    {
+        "name": "lakmécygne",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 86
+    },
+    {
+        "name": "lamantine",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 65
+    },
+    {
+        "name": "lampéroie",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 108
+    },
+    {
+        "name": "leveinard",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 202
+    },
+    {
+        "name": "léviator",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 78
+    },
+    {
+        "name": "léviator_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 233
+    },
+    {
+        "name": "lippoutou",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 127
+    },
+    {
+        "name": "lokhlass",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 79
+    },
+    {
+        "name": "lokhlass_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 234
+    },
+    {
+        "name": "machoc",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 143
+    },
+    {
+        "name": "machopeur",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 144
+    },
+    {
+        "name": "mackogneur",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 145
+    },
+    {
+        "name": "mackogneur_ex",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 146
+    },
+    {
+        "name": "mackogneur_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 263
+    },
+    {
+        "name": "mackogneur_ex_rainbow",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 278
+    },
+    {
+        "name": "magicarpe",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 77
+    },
+    {
+        "name": "magmar",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 44
+    },
+    {
+        "name": "magnéti",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 97
+    },
+    {
+        "name": "magnéton",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 98
+    },
+    {
+        "name": "major_bob",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 226
+    },
+    {
+        "name": "major_bob_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 273
+    },
+    {
+        "name": "malamandre",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 50
+    },
+    {
+        "name": "melmetal",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 182
+    },
+    {
+        "name": "mélodelfe",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 114
+    },
+    {
+        "name": "mélofée",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 113
+    },
+    {
+        "name": "meltan",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 181
+    },
+    {
+        "name": "métamorph",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 205
+    },
+    {
+        "name": "métamorph_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 247
+    },
+    {
+        "name": "mew",
+        "booster": [
+            "Global"
+        ],
+        "rarity": 0,
+        "owned": false,
+        "pokedexNumber": 283
+    },
+    {
+        "name": "mewtwo",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 128
+    },
+    {
+        "name": "mewtwo_ex",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 129
+    },
+    {
+        "name": "mewtwo_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 262
+    },
+    {
+        "name": "mewtwo_gold",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1c",
+        "owned": false,
+        "pokedexNumber": 286
+    },
+    {
+        "name": "mewtwo_immersive",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3e",
+        "owned": false,
+        "pokedexNumber": 282
+    },
+    {
+        "name": "miaouss",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 196
+    },
+    {
+        "name": "miaouss_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 246
+    },
+    {
+        "name": "mimitoss",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 16
+    },
+    {
+        "name": "minidraco",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 183
+    },
+    {
+        "name": "m_mime",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 126
+    },
+    {
+        "name": "morgane",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 225
+    },
+    {
+        "name": "morgane_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 272
+    },
+    {
+        "name": "moumouflon",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 215
+    },
+    {
+        "name": "moumouton",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 214
+    },
+    {
+        "name": "mysdibule",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 178
+    },
+    {
+        "name": "mystherbe",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 11
+    },
+    {
+        "name": "nidoking",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 171
+    },
+    {
+        "name": "nidoking_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 241
+    },
+    {
+        "name": "nidoqueen",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 168
+    },
+    {
+        "name": "nidoqueen_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 240
+    },
+    {
+        "name": "nidoran_femelle",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 166
+    },
+    {
+        "name": "nidoran_male",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 169
+    },
+    {
+        "name": "nidorina",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 167
+    },
+    {
+        "name": "nidorino",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 170
+    },
+    {
+        "name": "noadkoko",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 22
+    },
+    {
+        "name": "noadkoko_ex",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 23
+    },
+    {
+        "name": "noadkoko_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 252
+    },
+    {
+        "name": "noeunoeuf",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 21
+    },
+    {
+        "name": "nosferalto",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 173
+    },
+    {
+        "name": "nosferalto_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 242
+    },
+    {
+        "name": "nosferapti",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 172
+    },
+    {
+        "name": "ohmassacre",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 109
+    },
+    {
+        "name": "ondine",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 220
+    },
+    {
+        "name": "ondine_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 267
+    },
+    {
+        "name": "onix",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 150
+    },
+    {
+        "name": "ortide",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 12
+    },
+    {
+        "name": "ortide_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 228
+    },
+    {
+        "name": "ossatueur",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 152
+    },
+    {
+        "name": "ossatueur_ex",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 153
+    },
+    {
+        "name": "ossatueur_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 264
+    },
+    {
+        "name": "osselait",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 151
+    },
+    {
+        "name": "osselait_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 239
+    },
+    {
+        "name": "otaria",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 64
+    },
+    {
+        "name": "papilusion",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 7
+    },
+    {
+        "name": "paras",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 14
+    },
+    {
+        "name": "parasect",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 15
+    },
+    {
+        "name": "pashmilla",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 213
+    },
+    {
+        "name": "persian",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 197
+    },
+    {
+        "name": "piafabec",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 191
+    },
+    {
+        "name": "pierre",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 224
+    },
+    {
+        "name": "pierre_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 271
+    },
+    {
+        "name": "pikachu",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 94
+    },
+    {
+        "name": "pikachu_ex",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 96
+    },
+    {
+        "name": "pikachu_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 259
+    },
+    {
+        "name": "pikachu_gold",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1c",
+        "owned": false,
+        "pokedexNumber": 285
+    },
+    {
+        "name": "pikachu_immersive",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3e",
+        "owned": false,
+        "pokedexNumber": 281
+    },
+    {
+        "name": "poissirène",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 72
+    },
+    {
+        "name": "poissoroy",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 73
+    },
+    {
+        "name": "ponyta",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 42
+    },
+    {
+        "name": "porygon",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 209
+    },
+    {
+        "name": "porygon_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 249
+    },
+    {
+        "name": "poulpaf",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 162
+    },
+    {
+        "name": "psykokwak",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 57
+    },
+    {
+        "name": "ptéra",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 210
+    },
+    {
+        "name": "ptitard",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 59
+    },
+    {
+        "name": "pyroli",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 45
+    },
+    {
+        "name": "racaillou",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 147
+    },
+    {
+        "name": "rafflesia",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 13
+    },
+    {
+        "name": "raichu",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 95
+    },
+    {
+        "name": "ramoloss",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 118
+    },
+    {
+        "name": "ramoloss_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 237
+    },
+    {
+        "name": "rapasdepic",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 192
+    },
+    {
+        "name": "rattata",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 189
+    },
+    {
+        "name": "rattatac",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 190
+    },
+    {
+        "name": "reptincel",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 34
+    },
+    {
+        "name": "rhinocorne",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 156
+    },
+    {
+        "name": "rhinoféros",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 157
+    },
+    {
+        "name": "rhinolove",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 134
+    },
+    {
+        "name": "rondoudou",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 193
+    },
+    {
+        "name": "ronflex",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 211
+    },
+    {
+        "name": "ronflex_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 250
+    },
+    {
+        "name": "roucarnage",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 188
+    },
+    {
+        "name": "roucarnage_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 245
+    },
+    {
+        "name": "roucool",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 186
+    },
+    {
+        "name": "roucoups",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 187
+    },
+    {
+        "name": "sabelette",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 137
+    },
+    {
+        "name": "sablaireau",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 138
+    },
+    {
+        "name": "salamèche",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 33
+    },
+    {
+        "name": "salamèche_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 230
+    },
+    {
+        "name": "saquedeneu",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 24
+    },
+    {
+        "name": "scalpion",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 179
+    },
+    {
+        "name": "scalproie",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 180
+    },
+    {
+        "name": "scarabrute",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 26
+    },
+    {
+        "name": "scarabrute_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 229
+    },
+    {
+        "name": "scolocendre",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 52
+    },
+    {
+        "name": "shaofouine",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 161
+    },
+    {
+        "name": "smogo",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 176
+    },
+    {
+        "name": "smogogo",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 177
+    },
+    {
+        "name": "smogogo_fullart",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 243
+    },
+    {
+        "name": "soporifik",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 124
+    },
+    {
+        "name": "spectrum",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 121
+    },
+    {
+        "name": "stari",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 74
+    },
+    {
+        "name": "staross",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 75
+    },
+    {
+        "name": "staross_ex",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 76
+    },
+    {
+        "name": "staross_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 257
+    },
+    {
+        "name": "sulfura",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 46
+    },
+    {
+        "name": "sulfura_ex",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 47
+    },
+    {
+        "name": "sulfura_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 255
+    },
+    {
+        "name": "sulfura_ex_rainbow",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 274
+    },
+    {
+        "name": "tadmorv",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 174
+    },
+    {
+        "name": "tarsal",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 130
+    },
+    {
+        "name": "tartard",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 61
+    },
+    {
+        "name": "taupiqueur",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 139
+    },
+    {
+        "name": "taupiqueur_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1e",
+        "owned": false,
+        "pokedexNumber": 238
+    },
+    {
+        "name": "tauros",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 204
+    },
+    {
+        "name": "tentacool",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 62
+    },
+    {
+        "name": "tentacruel",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 63
+    },
+    {
+        "name": "tetarte",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 60
+    },
+    {
+        "name": "tortank",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 55
+    },
+    {
+        "name": "tortank_ex",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "4l",
+        "owned": false,
+        "pokedexNumber": 56
+    },
+    {
+        "name": "tortank_ex_fullart",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2e",
+        "owned": false,
+        "pokedexNumber": 256
+    },
+    {
+        "name": "triopikeur",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 140
+    },
+    {
+        "name": "tritox",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 49
+    },
+    {
+        "name": "tygnon",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 155
+    },
+    {
+        "name": "vieil_ambre",
+        "booster": [
+            "Global",
+            "Booster Mewtwo"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 218
+    },
+    {
+        "name": "voltali",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "3l",
+        "owned": false,
+        "pokedexNumber": 102
+    },
+    {
+        "name": "voltorbe",
+        "booster": [
+            "Global",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 99
+    },
+    {
+        "name": "wattapik",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 112
+    },
+    {
+        "name": "zébibron",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "1l",
+        "owned": false,
+        "pokedexNumber": 105
+    },
+    {
+        "name": "zéblitz",
+        "booster": [
+            "Global",
+            "Booster Dracaufeu",
+            "Booster Mewtwo",
+            "Booster Pikachu"
+        ],
+        "rarity": "2l",
+        "owned": false,
+        "pokedexNumber": 106
+    }
+]
