@@ -14,6 +14,15 @@
         <nav>
             <!-- Onglets pour chaque booster -->
             <ul id="booster-tabs"></ul>
+            <!-- Boutons de sauvegarde et chargement -->
+            <div id="save-load-controls">
+                <button id="load-button">Charger</button>
+                <button id="save-button">Sauvegarder</button>
+                <input type="file" id="load-file" accept=".json" style="display: none;" />
+            </div>
+            <div id="tabs-footer">
+                <small>* Probabilité d'avoir une nouvelle carte</small>
+            </div>
         </nav>
         <section id="card-display"></section>
     </main>

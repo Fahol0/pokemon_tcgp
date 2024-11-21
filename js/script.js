@@ -40,6 +40,9 @@ document.addEventListener("DOMContentLoaded", () => {
         .catch((error) => console.error("Erreur lors du chargement des données:", error));
 
     function initializeApp() {
+        const tabs = document.getElementById("booster-tabs");
+        tabs.innerHTML = "";
+
         ["Global", "Booster Dracaufeu", "Booster Mewtwo", "Booster Pikachu"].forEach((booster, index) => {
             const li = document.createElement("li");
             li.textContent = booster === "Global" ? "Global" : booster;
@@ -66,6 +69,52 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("Booster Dracaufeu-probability").textContent = `Probabilité : ${(proba_dracaufeu * 100 / 4.1272).toFixed(2)}%`;
         document.getElementById("Booster Mewtwo-probability").textContent = `Probabilité : ${(proba_mewtwo * 100 / 4.1247).toFixed(2)}%`;
         document.getElementById("Booster Pikachu-probability").textContent = `Probabilité : ${(proba_pikachu * 100 / 4.1272).toFixed(2)}%`;
+    }
+
+    // Références aux boutons de sauvegarde et chargement
+    const saveButton = document.getElementById("save-button");
+    const loadButton = document.getElementById("load-button");
+    const loadFileInput = document.getElementById("load-file");
+
+    // Fonction pour sauvegarder les données
+    saveButton.addEventListener("click", saveData);
+
+    // Fonction pour charger les données
+    loadButton.addEventListener("click", () => loadFileInput.click());
+    loadFileInput.addEventListener("change", loadData);
+
+    // Sauvegarde les données des cartes actuelles dans un fichier JSON.
+    function saveData() {
+        const dataToSave = JSON.stringify(cardData, null, 2); // Mise en forme lisible
+        const blob = new Blob([dataToSave], { type: "application/json" });
+        const a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = "pokemon_cards.json"; // Nom du fichier généré
+        a.click();
+        URL.revokeObjectURL(a.href);
+    }
+
+    // Charge les données depuis un fichier JSON sélectionné.
+    function loadData(event) {
+        const file = event.target.files[0];
+        if (!file) return;
+
+        const reader = new FileReader();
+        reader.onload = (e) => {
+            try {
+                const newData = JSON.parse(e.target.result); // Analyse le JSON
+                if (Array.isArray(newData)) {
+                    cardData = newData; // Remplace les données actuelles
+                    initializeApp(); // Réinitialise l'application avec les nouvelles données
+                    alert("Les données ont été chargées avec succès !");
+                } else {
+                    alert("Le fichier JSON n'est pas valide.");
+                }
+            } catch (error) {
+                alert("Erreur lors du chargement des données : " + error.message);
+            }
+        };
+        reader.readAsText(file);
     }
 
     function displayBooster(booster) {
@@ -145,9 +194,9 @@ document.addEventListener("DOMContentLoaded", () => {
             if (booster === "Booster Dracaufeu") {
                 proba = proba_dracaufeu;
                 if (action === "add") {
-                    proba += prob_normale / 4.1272;
+                    proba += prob_normale;
                 } else if (action === "remove") {
-                    proba -= prob_normale / 4.1272;
+                    proba -= prob_normale;
                 }
                 proba_dracaufeu = proba;
                 document.getElementById("Booster Dracaufeu-probability").textContent = `Probabilité : ${(proba * 100 / 4.1272).toFixed(2)}%`;
@@ -155,9 +204,9 @@ document.addEventListener("DOMContentLoaded", () => {
             else if (booster === "Booster Mewtwo") {
                 proba = proba_mewtwo;
                 if (action === "add") {
-                    proba += prob_normale / 4.1247;
+                    proba += prob_normale;
                 } else if (action === "remove") {
-                    proba -= prob_normale / 4.1247;
+                    proba -= prob_normale;
                 }
                 proba_mewtwo = proba;
                 document.getElementById("Booster Mewtwo-probability").textContent = `Probabilité : ${(proba * 100 / 4.1247).toFixed(2)}%`;
@@ -165,13 +214,13 @@ document.addEventListener("DOMContentLoaded", () => {
             else if (booster === "Booster Pikachu") {
                 proba = proba_pikachu;
                 if (action === "add") {
-                    proba += prob_normale / 4.1272;
+                    proba += prob_normale;
                 } else if (action === "remove") {
-                    proba -= prob_normale / 4.1272;
+                    proba -= prob_normale;
                 }
                 proba_pikachu = proba;
                 document.getElementById("Booster Pikachu-probability").textContent = `Probabilité : ${(proba * 100 / 4.1272).toFixed(2)}%`;
             }
         });
-    }    
+    }
 });
