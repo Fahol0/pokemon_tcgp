@@ -105,6 +105,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 const newData = JSON.parse(e.target.result); // Analyse le JSON
                 if (Array.isArray(newData)) {
                     cardData = newData; // Remplace les données actuelles
+                    calculateBoosterProbability(); // Recalcule les probabilités avec les nouvelles données
                     initializeApp(); // Réinitialise l'application avec les nouvelles données
                     alert("Les données ont été chargées avec succès !");
                 } else {
@@ -161,22 +162,24 @@ document.addEventListener("DOMContentLoaded", () => {
         displayBooster(activeBooster);
     }
 
-    function calculateBoosterProbability(booster) {
+    function calculateBoosterProbability() {
         proba_dracaufeu = 0;
         proba_mewtwo = 0;
         proba_pikachu = 0;
 
         cardData.forEach((card) => {
             const prob_normale = card.prob_normale || 0;
-
-            if (card.booster.includes("Booster Dracaufeu")) {
-                proba_dracaufeu += prob_normale;
-            }
-            if (card.booster.includes("Booster Mewtwo")) {
-                proba_mewtwo += prob_normale;
-            }
-            if (card.booster.includes("Booster Pikachu")) {
-                proba_pikachu += prob_normale;
+    
+            if (!card.owned) {
+                if (card.booster.includes("Booster Dracaufeu")) {
+                    proba_dracaufeu += prob_normale;
+                }
+                if (card.booster.includes("Booster Mewtwo")) {
+                    proba_mewtwo += prob_normale;
+                }
+                if (card.booster.includes("Booster Pikachu")) {
+                    proba_pikachu += prob_normale;
+                }
             }
         });
 
