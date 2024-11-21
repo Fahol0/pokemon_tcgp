@@ -99,6 +99,13 @@ document.addEventListener("DOMContentLoaded", () => {
         const file = event.target.files[0];
         if (!file) return;
 
+        // Vérification de l'extension du fichier
+        const fileExtension = file.name.split('.').pop();
+        if (fileExtension !== "json") {
+            alert("Le fichier sélectionné n'est pas un fichier JSON.");
+            return;
+        }
+
         const reader = new FileReader();
         reader.onload = (e) => {
             try {
