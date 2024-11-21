@@ -16,6 +16,10 @@ const probabilities = {
 
 let activeBooster = "Global";
 
+let proba_dracaufau;
+let proba_mewtwo;
+let proba_pikachu;
+
 // Initialisation
 document.addEventListener("DOMContentLoaded", () => {
     const tabs = document.getElementById("booster-tabs");
@@ -33,31 +37,36 @@ document.addEventListener("DOMContentLoaded", () => {
             cardData = data; // Assigner les données chargées
             initializeApp();
         })
-        .catch((error) => console.error("Erreur :", error));
-    
+        .catch((error) => console.error("Erreur lors du chargement des données:", error));
+
     function initializeApp() {
-        // Créer les onglets
         ["Global", "Booster Dracaufeu", "Booster Mewtwo", "Booster Pikachu"].forEach((booster, index) => {
             const li = document.createElement("li");
             li.textContent = booster === "Global" ? "Global" : booster;
             li.className = index === 0 ? "active" : "";
-
+        
             if (booster !== "Global") {
-                // Ajout d'une zone pour les probabilités
                 const probabilityDisplay = document.createElement("span");
                 probabilityDisplay.className = "probability-display";
                 probabilityDisplay.id = `${booster}-probability`;
                 probabilityDisplay.textContent = "Probabilité : 100%"; // Initialisation
                 li.appendChild(probabilityDisplay);
             }
-
+        
             li.addEventListener("click", () => displayBooster(booster));
             tabs.appendChild(li);
         });
-
+        
         // Afficher l’onglet "Global" par défaut
         displayBooster("Global");
-    }  
+        
+        // Calculer les probabilités pour chaque booster
+        calculateBoosterProbability();
+        
+        document.getElementById("Booster Dracaufeu-probability").textContent = `Probabilité : ${(proba_dracaufeu * 100 / 4.1272).toFixed(2)}%`;
+        document.getElementById("Booster Mewtwo-probability").textContent = `Probabilité : ${(proba_mewtwo * 100 / 4.1247).toFixed(2)}%`;
+        document.getElementById("Booster Pikachu-probability").textContent = `Probabilité : ${(proba_pikachu * 100 / 4.1272).toFixed(2)}%`;
+    }
 
     function displayBooster(booster) {
         activeBooster = booster;
@@ -95,56 +104,74 @@ document.addEventListener("DOMContentLoaded", () => {
         // Met à jour l'état de la carte
         card.owned = !card.owned;
 
+        // Mettre à jour la probabilité de tous les boosters où la carte est présente
+        const action = card.owned ? "remove" : "add";
+        updateProbability(card, action);
+
         // Synchronise l'affichage
         displayBooster(activeBooster);
     }
 
-    function updateProbability(booster) {
-        // Calcul de la probabilité d'obtenir de nouvelles cartes
-        const filteredCards = cardData.filter((card) => card.booster.includes(booster));
-        const remainingProbability = filteredCards
-            .filter((card) => !card.owned)
-            .reduce((sum, card) => sum + card.rarity, 0);
+    function calculateBoosterProbability(booster) {
+        proba_dracaufeu = 0;
+        proba_mewtwo = 0;
+        proba_pikachu = 0;
 
-        const probDisplay = document.getElementById(`${booster}-probability`);
-        probDisplay.textContent = `Probabilité : ${(remainingProbability * 100).toFixed(2)}%`;
+        cardData.forEach((card) => {
+            const prob_normale = card.prob_normale || 0;
+
+            if (card.booster.includes("Booster Dracaufeu")) {
+                proba_dracaufeu += prob_normale;
+            }
+            if (card.booster.includes("Booster Mewtwo")) {
+                proba_mewtwo += prob_normale;
+            }
+            if (card.booster.includes("Booster Pikachu")) {
+                proba_pikachu += prob_normale;
+            }
+        });
+
+        proba_dracaufau = proba_dracaufau;
+        proba_mewtwo = proba_mewtwo;
+        proba_pikachu = proba_pikachu;
     }
 
-    function getCardProbability(cardType, position) {
-        const posIndex = position - 1; // Convertir 1-5 en index 0-4
-        if (probabilities[cardType] && probabilities[cardType][posIndex] !== undefined) {
-            return probabilities[cardType][posIndex];
-        } else {
-            throw new Error(`Type de carte ou position invalide : ${cardType}, ${position}`);
-        }
-    }
+    function updateProbability(card, action) {
+        const prob_normale = card.prob_normale;
     
-    function calculateCardTotalProbability(card) {
-        // Calculer la probabilité cumulée sur les 5 positions pour une carte donnée
-        return [1, 2, 3, 4, 5].reduce((total, position) => {
-            return total + getCardProbability(card.type, position);
-        }, 0);
-    }
+        card.booster.forEach(booster => {
+            let proba = 0;
     
-    function calculateBoosterProbability(filteredCards) {
-        // Probabilité cumulée pour au moins une carte non possédée
-        const probabilities = filteredCards
-            .filter((card) => !card.owned) // Cartes non possédées uniquement
-            .map(calculateCardTotalProbability); // Récupérer les probabilités totales
-    
-        // Union des probabilités (formule : 1 - produit des probabilités complémentaires)
-        const globalProbability = 1 - probabilities.reduce((product, prob) => product * (1 - prob), 1);
-        return globalProbability;
-    }
-    
-    function updateProbability(booster) {
-        const filteredCards = cardData.filter((card) => card.booster.includes(booster));
-    
-        // Calculer la probabilité globale
-        const globalProbability = calculateBoosterProbability(filteredCards);
-    
-        const probDisplay = document.getElementById(`${booster}-probability`);
-        probDisplay.textContent = `Probabilité : ${(globalProbability * 100).toFixed(2)}%`;
-    }
-       
+            if (booster === "Booster Dracaufeu") {
+                proba = proba_dracaufeu;
+                if (action === "add") {
+                    proba += prob_normale / 4.1272;
+                } else if (action === "remove") {
+                    proba -= prob_normale / 4.1272;
+                }
+                proba_dracaufeu = proba;
+                document.getElementById("Booster Dracaufeu-probability").textContent = `Probabilité : ${(proba * 100 / 4.1272).toFixed(2)}%`;
+            }
+            else if (booster === "Booster Mewtwo") {
+                proba = proba_mewtwo;
+                if (action === "add") {
+                    proba += prob_normale / 4.1247;
+                } else if (action === "remove") {
+                    proba -= prob_normale / 4.1247;
+                }
+                proba_mewtwo = proba;
+                document.getElementById("Booster Mewtwo-probability").textContent = `Probabilité : ${(proba * 100 / 4.1247).toFixed(2)}%`;
+            }
+            else if (booster === "Booster Pikachu") {
+                proba = proba_pikachu;
+                if (action === "add") {
+                    proba += prob_normale / 4.1272;
+                } else if (action === "remove") {
+                    proba -= prob_normale / 4.1272;
+                }
+                proba_pikachu = proba;
+                document.getElementById("Booster Pikachu-probability").textContent = `Probabilité : ${(proba * 100 / 4.1272).toFixed(2)}%`;
+            }
+        });
+    }    
 });

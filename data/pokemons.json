@@ -9,7 +9,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 164
+        "pokedexNumber": 164,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "abra",
@@ -19,17 +20,19 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 115
+        "pokedexNumber": 115,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "aéromite",
+        "name": "a\u00e9romite",
         "booster": [
             "Global",
             "Booster Mewtwo"
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 17
+        "pokedexNumber": 17,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "aflamanoir",
@@ -41,7 +44,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 48
+        "pokedexNumber": 48,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "akwakwak",
@@ -53,7 +57,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 58
+        "pokedexNumber": 58,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "alakazam",
@@ -63,7 +68,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 117
+        "pokedexNumber": 117,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "alakazam_fullart",
@@ -73,7 +79,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 236
+        "pokedexNumber": 236,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "amonistar",
@@ -83,7 +90,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 82
+        "pokedexNumber": 82,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "amonita",
@@ -93,7 +101,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 81
+        "pokedexNumber": 81,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "amphinobi",
@@ -103,7 +112,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 89
+        "pokedexNumber": 89,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "anchwatt",
@@ -113,7 +123,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 107
+        "pokedexNumber": 107,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "aquali",
@@ -123,7 +134,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 80
+        "pokedexNumber": 80,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "arbok",
@@ -135,7 +147,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 165
+        "pokedexNumber": 165,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "arcanin",
@@ -145,7 +158,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 40
+        "pokedexNumber": 40,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "arcanin_ex",
@@ -155,7 +169,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 41
+        "pokedexNumber": 41,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "arcanin_ex_fullart",
@@ -165,7 +180,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 254
+        "pokedexNumber": 254,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "artikodin",
@@ -175,7 +191,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 83
+        "pokedexNumber": 83,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "artikodin_ex",
@@ -185,7 +202,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 84
+        "pokedexNumber": 84,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "artikodin_ex_fullart",
@@ -195,7 +213,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 258
+        "pokedexNumber": 258,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "artikodin_ex_rainbow",
@@ -205,7 +224,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 275
+        "pokedexNumber": 275,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "aspicot",
@@ -215,7 +235,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 8
+        "pokedexNumber": 8,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "auguste",
@@ -225,7 +246,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 221
+        "pokedexNumber": 221,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "auguste_fullart",
@@ -235,7 +257,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 268
+        "pokedexNumber": 268,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "beldeneige",
@@ -247,7 +270,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 93
+        "pokedexNumber": 93,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "boustiflor",
@@ -257,7 +281,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 19
+        "pokedexNumber": 19,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "bulbizarre",
@@ -267,7 +292,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 1
+        "pokedexNumber": 1,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "bulbizarre_fullart",
@@ -277,18 +303,19 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 227
+        "pokedexNumber": 227,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "cabriolaine",
         "booster": [
             "Global",
-            "Booster Dracaufeu",
-            "Booster Mewtwo"
+            "Booster Dracaufeu"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 31
+        "pokedexNumber": 31,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "canarticho",
@@ -300,7 +327,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 198
+        "pokedexNumber": 198,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "caninos",
@@ -310,7 +338,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 39
+        "pokedexNumber": 39,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "carabaffe",
@@ -320,7 +349,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 54
+        "pokedexNumber": 54,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "carapuce",
@@ -330,7 +360,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 53
+        "pokedexNumber": 53,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "carapuce_fullart",
@@ -340,7 +371,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 232
+        "pokedexNumber": 232,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "chenipan",
@@ -350,28 +382,30 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 5
+        "pokedexNumber": 5,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "chétiflor",
+        "name": "ch\u00e9tiflor",
         "booster": [
             "Global",
             "Booster Dracaufeu"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 18
+        "pokedexNumber": 18,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "chevroum",
         "booster": [
             "Global",
-            "Booster Dracaufeu",
-            "Booster Mewtwo"
+            "Booster Dracaufeu"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 32
+        "pokedexNumber": 32,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "chinchidou",
@@ -383,7 +417,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 212
+        "pokedexNumber": 212,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "chlorobule",
@@ -395,7 +430,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 29
+        "pokedexNumber": 29,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "chovsourir",
@@ -407,7 +443,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 133
+        "pokedexNumber": 133,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "chrysacier",
@@ -417,7 +454,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 6
+        "pokedexNumber": 6,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "coconfort",
@@ -427,7 +465,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 9
+        "pokedexNumber": 9,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "colossinge",
@@ -437,7 +476,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 142
+        "pokedexNumber": 142,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "concombaffe",
@@ -447,7 +487,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 90
+        "pokedexNumber": 90,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "couaneton",
@@ -457,7 +498,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 85
+        "pokedexNumber": 85,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "croaporal",
@@ -467,7 +509,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 88
+        "pokedexNumber": 88,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "crustabri",
@@ -477,7 +520,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 67
+        "pokedexNumber": 67,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "dardargnan",
@@ -487,7 +531,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 10
+        "pokedexNumber": 10,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "denticrisse",
@@ -499,7 +544,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 91
+        "pokedexNumber": 91,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "dodrio",
@@ -511,7 +557,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 200
+        "pokedexNumber": 200,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "doduo",
@@ -523,7 +570,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 199
+        "pokedexNumber": 199,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "doudouvet",
@@ -535,7 +583,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 27
+        "pokedexNumber": 27,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "dracaufeu",
@@ -545,7 +594,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 35
+        "pokedexNumber": 35,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "dracaufeu_ex",
@@ -555,7 +605,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 36
+        "pokedexNumber": 36,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "dracaufeu_ex_fullart",
@@ -565,7 +616,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 253
+        "pokedexNumber": 253,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "dracaufeu_gold",
@@ -577,7 +629,8 @@
         ],
         "rarity": "1c",
         "owned": false,
-        "pokedexNumber": 284
+        "pokedexNumber": 284,
+        "prob_normale": 0.0006599310999999553
     },
     {
         "name": "dracaufeu_immersive",
@@ -587,7 +640,8 @@
         ],
         "rarity": "3e",
         "owned": false,
-        "pokedexNumber": 280
+        "pokedexNumber": 280,
+        "prob_normale": 0.011080286400000028
     },
     {
         "name": "draco",
@@ -597,7 +651,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 184
+        "pokedexNumber": 184,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "dracolosse",
@@ -607,7 +662,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 185
+        "pokedexNumber": 185,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "dracolosse_fullart",
@@ -617,7 +673,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 244
+        "pokedexNumber": 244,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "ectoplasma",
@@ -627,7 +684,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 122
+        "pokedexNumber": 122,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "ectoplasma_ex",
@@ -637,7 +695,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 123
+        "pokedexNumber": 123,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "ectoplasma_ex_fullart",
@@ -647,7 +706,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 261
+        "pokedexNumber": 261,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "ectoplasma_ex_rainbow",
@@ -657,77 +717,85 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 277
+        "pokedexNumber": 277,
+        "prob_normale": 0.002498999999999918
     },
     {
-        "name": "électhor",
+        "name": "\u00e9lecthor",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 103
+        "pokedexNumber": 103,
+        "prob_normale": 0.01779902039999992
     },
     {
-        "name": "électhor_ex",
+        "name": "\u00e9lecthor_ex",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 104
+        "pokedexNumber": 104,
+        "prob_normale": 0.016605644400000008
     },
     {
-        "name": "électhor_ex_fullart",
+        "name": "\u00e9lecthor_ex_fullart",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 260
+        "pokedexNumber": 260,
+        "prob_normale": 0.002498999999999918
     },
     {
-        "name": "électhor_ex_rainbow",
+        "name": "\u00e9lecthor_ex_rainbow",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 276
+        "pokedexNumber": 276,
+        "prob_normale": 0.002498999999999918
     },
     {
-        "name": "électrode",
+        "name": "\u00e9lectrode",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 100
+        "pokedexNumber": 100,
+        "prob_normale": 0.019666933060000003
     },
     {
-        "name": "électrode_fullart",
+        "name": "\u00e9lectrode_fullart",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 235
+        "pokedexNumber": 235,
+        "prob_normale": 0.016028719400000058
     },
     {
-        "name": "élektek",
+        "name": "\u00e9lektek",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 101
+        "pokedexNumber": 101,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "empiflor",
@@ -737,7 +805,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 20
+        "pokedexNumber": 20,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "erika",
@@ -747,7 +816,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 219
+        "pokedexNumber": 219,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "erika_fullart",
@@ -757,47 +827,52 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 266
+        "pokedexNumber": 266,
+        "prob_normale": 0.002498999999999918
     },
     {
-        "name": "évoli_1",
+        "name": "\u00e9voli_1",
         "booster": [
             "Global",
             "Booster Dracaufeu"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 206
+        "pokedexNumber": 206,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "évoli_2",
+        "name": "\u00e9voli_2",
         "booster": [
             "Global",
             "Booster Mewtwo"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 207
+        "pokedexNumber": 207,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "évoli_3",
+        "name": "\u00e9voli_3",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 208
+        "pokedexNumber": 208,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "évoli_fullart",
+        "name": "\u00e9voli_fullart",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 248
+        "pokedexNumber": 248,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "excelangue",
@@ -807,7 +882,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 201
+        "pokedexNumber": 201,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "fantominus",
@@ -817,7 +893,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 120
+        "pokedexNumber": 120,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "farfaduvet",
@@ -829,17 +906,19 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 28
+        "pokedexNumber": 28,
+        "prob_normale": 0.019666933060000003
     },
     {
-        "name": "férosinge",
+        "name": "f\u00e9rosinge",
         "booster": [
             "Global",
             "Booster Dracaufeu"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 141
+        "pokedexNumber": 141,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "feunard",
@@ -849,7 +928,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 38
+        "pokedexNumber": 38,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "flagadoss",
@@ -861,7 +941,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 119
+        "pokedexNumber": 119,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "florizarre",
@@ -871,7 +952,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 3
+        "pokedexNumber": 3,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "florizarre_ex",
@@ -881,7 +963,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 4
+        "pokedexNumber": 4,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "florizarre_ex_fullart",
@@ -891,7 +974,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 251
+        "pokedexNumber": 251,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "fossile_dome",
@@ -901,7 +985,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 217
+        "pokedexNumber": 217,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "fossile_nautile",
@@ -911,7 +996,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 216
+        "pokedexNumber": 216,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "fragilady",
@@ -923,7 +1009,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 30
+        "pokedexNumber": 30,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "frissonille",
@@ -935,7 +1022,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 92
+        "pokedexNumber": 92,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "galopa",
@@ -947,7 +1035,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 43
+        "pokedexNumber": 43,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "galopa_fullart",
@@ -957,7 +1046,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 231
+        "pokedexNumber": 231,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "galvaran",
@@ -969,7 +1059,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 110
+        "pokedexNumber": 110,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "gardevoir",
@@ -979,7 +1070,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 132
+        "pokedexNumber": 132,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "giovanni",
@@ -989,7 +1081,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 223
+        "pokedexNumber": 223,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "giovanni_fullart",
@@ -999,7 +1092,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 270
+        "pokedexNumber": 270,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "golemastoc",
@@ -1011,7 +1105,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 136
+        "pokedexNumber": 136,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "goupix",
@@ -1021,7 +1116,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 37
+        "pokedexNumber": 37,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "gravalanch",
@@ -1031,7 +1127,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 148
+        "pokedexNumber": 148,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "grenousse",
@@ -1041,7 +1138,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 87
+        "pokedexNumber": 87,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "grillepattes",
@@ -1053,7 +1151,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 51
+        "pokedexNumber": 51,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "gringolem",
@@ -1065,7 +1164,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 135
+        "pokedexNumber": 135,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "grodoudou",
@@ -1075,7 +1175,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 194
+        "pokedexNumber": 194,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "grodoudou_ex",
@@ -1085,7 +1186,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 195
+        "pokedexNumber": 195,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "grodoudou_ex_fullart",
@@ -1095,7 +1197,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 265
+        "pokedexNumber": 265,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "grodoudou_ex_rainbow",
@@ -1105,7 +1208,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 279
+        "pokedexNumber": 279,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "grolem",
@@ -1115,7 +1219,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 149
+        "pokedexNumber": 149,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "grotadmorv",
@@ -1125,7 +1230,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 175
+        "pokedexNumber": 175,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "herbizarre",
@@ -1135,7 +1241,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 2
+        "pokedexNumber": 2,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "hypnomade",
@@ -1145,17 +1252,19 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 125
+        "pokedexNumber": 125,
+        "prob_normale": 0.01779902039999992
     },
     {
-        "name": "hypocéan",
+        "name": "hypoc\u00e9an",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 71
+        "pokedexNumber": 71,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "hypotrempe",
@@ -1165,7 +1274,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 70
+        "pokedexNumber": 70,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "iguolta",
@@ -1177,17 +1287,19 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 111
+        "pokedexNumber": 111,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "insécateur",
+        "name": "ins\u00e9cateur",
         "booster": [
             "Global",
             "Booster Mewtwo"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 25
+        "pokedexNumber": 25,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "kabuto",
@@ -1197,7 +1309,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 158
+        "pokedexNumber": 158,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "kabutops",
@@ -1207,7 +1320,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 159
+        "pokedexNumber": 159,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "kadabra",
@@ -1217,7 +1331,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 116
+        "pokedexNumber": 116,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "kangourex",
@@ -1227,7 +1342,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 203
+        "pokedexNumber": 203,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "kicklee",
@@ -1237,7 +1353,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 154
+        "pokedexNumber": 154,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "kirlia",
@@ -1247,7 +1364,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 131
+        "pokedexNumber": 131,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "koga",
@@ -1257,7 +1375,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 222
+        "pokedexNumber": 222,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "koga_fullart",
@@ -1267,7 +1386,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 269
+        "pokedexNumber": 269,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "kokiyas",
@@ -1277,7 +1397,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 66
+        "pokedexNumber": 66,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "krabboss",
@@ -1287,7 +1408,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 69
+        "pokedexNumber": 69,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "krabby",
@@ -1297,7 +1419,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 68
+        "pokedexNumber": 68,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "krakos",
@@ -1309,7 +1432,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 163
+        "pokedexNumber": 163,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "kungfouine",
@@ -1319,17 +1443,19 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 160
+        "pokedexNumber": 160,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "lakmécygne",
+        "name": "lakm\u00e9cygne",
         "booster": [
             "Global",
             "Booster Dracaufeu"
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 86
+        "pokedexNumber": 86,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "lamantine",
@@ -1339,17 +1465,19 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 65
+        "pokedexNumber": 65,
+        "prob_normale": 0.019666933060000003
     },
     {
-        "name": "lampéroie",
+        "name": "lamp\u00e9roie",
         "booster": [
             "Global",
             "Booster Mewtwo"
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 108
+        "pokedexNumber": 108,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "leveinard",
@@ -1359,27 +1487,30 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 202
+        "pokedexNumber": 202,
+        "prob_normale": 0.019666933060000003
     },
     {
-        "name": "léviator",
+        "name": "l\u00e9viator",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 78
+        "pokedexNumber": 78,
+        "prob_normale": 0.01779902039999992
     },
     {
-        "name": "léviator_fullart",
+        "name": "l\u00e9viator_fullart",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 233
+        "pokedexNumber": 233,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "lippoutou",
@@ -1389,7 +1520,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 127
+        "pokedexNumber": 127,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "lokhlass",
@@ -1399,7 +1531,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 79
+        "pokedexNumber": 79,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "lokhlass_fullart",
@@ -1409,7 +1542,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 234
+        "pokedexNumber": 234,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "machoc",
@@ -1419,7 +1553,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 143
+        "pokedexNumber": 143,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "machopeur",
@@ -1429,7 +1564,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 144
+        "pokedexNumber": 144,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "mackogneur",
@@ -1439,7 +1575,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 145
+        "pokedexNumber": 145,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "mackogneur_ex",
@@ -1449,7 +1586,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 146
+        "pokedexNumber": 146,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "mackogneur_ex_fullart",
@@ -1459,7 +1597,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 263
+        "pokedexNumber": 263,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "mackogneur_ex_rainbow",
@@ -1469,7 +1608,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 278
+        "pokedexNumber": 278,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "magicarpe",
@@ -1479,7 +1619,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 77
+        "pokedexNumber": 77,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "magmar",
@@ -1489,27 +1630,30 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 44
+        "pokedexNumber": 44,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "magnéti",
+        "name": "magn\u00e9ti",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 97
+        "pokedexNumber": 97,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "magnéton",
+        "name": "magn\u00e9ton",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 98
+        "pokedexNumber": 98,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "major_bob",
@@ -1519,7 +1663,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 226
+        "pokedexNumber": 226,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "major_bob_fullart",
@@ -1529,7 +1674,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 273
+        "pokedexNumber": 273,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "malamandre",
@@ -1539,7 +1685,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 50
+        "pokedexNumber": 50,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "melmetal",
@@ -1549,27 +1696,30 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 182
+        "pokedexNumber": 182,
+        "prob_normale": 0.01779902039999992
     },
     {
-        "name": "mélodelfe",
+        "name": "m\u00e9lodelfe",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 114
+        "pokedexNumber": 114,
+        "prob_normale": 0.019666933060000003
     },
     {
-        "name": "mélofée",
+        "name": "m\u00e9lof\u00e9e",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 113
+        "pokedexNumber": 113,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "meltan",
@@ -1579,27 +1729,30 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 181
+        "pokedexNumber": 181,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "métamorph",
+        "name": "m\u00e9tamorph",
         "booster": [
             "Global",
             "Booster Mewtwo"
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 205
+        "pokedexNumber": 205,
+        "prob_normale": 0.01779902039999992
     },
     {
-        "name": "métamorph_fullart",
+        "name": "m\u00e9tamorph_fullart",
         "booster": [
             "Global",
             "Booster Mewtwo"
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 247
+        "pokedexNumber": 247,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "mew",
@@ -1608,7 +1761,8 @@
         ],
         "rarity": 0,
         "owned": false,
-        "pokedexNumber": 283
+        "pokedexNumber": 283,
+        "prob_normale": 0
     },
     {
         "name": "mewtwo",
@@ -1618,7 +1772,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 128
+        "pokedexNumber": 128,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "mewtwo_ex",
@@ -1628,7 +1783,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 129
+        "pokedexNumber": 129,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "mewtwo_ex_fullart",
@@ -1638,7 +1794,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 262
+        "pokedexNumber": 262,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "mewtwo_gold",
@@ -1650,7 +1807,8 @@
         ],
         "rarity": "1c",
         "owned": false,
-        "pokedexNumber": 286
+        "pokedexNumber": 286,
+        "prob_normale": 0.0006599310999999553
     },
     {
         "name": "mewtwo_immersive",
@@ -1660,7 +1818,8 @@
         ],
         "rarity": "3e",
         "owned": false,
-        "pokedexNumber": 282
+        "pokedexNumber": 282,
+        "prob_normale": 0.011080286400000028
     },
     {
         "name": "miaouss",
@@ -1670,7 +1829,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 196
+        "pokedexNumber": 196,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "miaouss_fullart",
@@ -1680,7 +1840,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 246
+        "pokedexNumber": 246,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "mimitoss",
@@ -1690,7 +1851,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 16
+        "pokedexNumber": 16,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "minidraco",
@@ -1700,7 +1862,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 183
+        "pokedexNumber": 183,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "m_mime",
@@ -1710,7 +1873,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 126
+        "pokedexNumber": 126,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "morgane",
@@ -1720,7 +1884,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 225
+        "pokedexNumber": 225,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "morgane_fullart",
@@ -1730,7 +1895,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 272
+        "pokedexNumber": 272,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "moumouflon",
@@ -1742,7 +1908,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 215
+        "pokedexNumber": 215,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "moumouton",
@@ -1754,7 +1921,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 214
+        "pokedexNumber": 214,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "mysdibule",
@@ -1764,7 +1932,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 178
+        "pokedexNumber": 178,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "mystherbe",
@@ -1774,7 +1943,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 11
+        "pokedexNumber": 11,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "nidoking",
@@ -1784,7 +1954,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 171
+        "pokedexNumber": 171,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "nidoking_fullart",
@@ -1794,7 +1965,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 241
+        "pokedexNumber": 241,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "nidoqueen",
@@ -1804,7 +1976,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 168
+        "pokedexNumber": 168,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "nidoqueen_fullart",
@@ -1814,7 +1987,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 240
+        "pokedexNumber": 240,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "nidoran_femelle",
@@ -1824,7 +1998,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 166
+        "pokedexNumber": 166,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "nidoran_male",
@@ -1834,7 +2009,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 169
+        "pokedexNumber": 169,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "nidorina",
@@ -1844,7 +2020,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 167
+        "pokedexNumber": 167,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "nidorino",
@@ -1854,7 +2031,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 170
+        "pokedexNumber": 170,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "noadkoko",
@@ -1864,7 +2042,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 22
+        "pokedexNumber": 22,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "noadkoko_ex",
@@ -1874,7 +2053,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 23
+        "pokedexNumber": 23,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "noadkoko_ex_fullart",
@@ -1884,7 +2064,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 252
+        "pokedexNumber": 252,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "noeunoeuf",
@@ -1894,7 +2075,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 21
+        "pokedexNumber": 21,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "nosferalto",
@@ -1904,7 +2086,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 173
+        "pokedexNumber": 173,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "nosferalto_fullart",
@@ -1914,7 +2097,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 242
+        "pokedexNumber": 242,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "nosferapti",
@@ -1924,7 +2108,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 172
+        "pokedexNumber": 172,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "ohmassacre",
@@ -1934,7 +2119,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 109
+        "pokedexNumber": 109,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "ondine",
@@ -1944,7 +2130,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 220
+        "pokedexNumber": 220,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "ondine_fullart",
@@ -1954,7 +2141,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 267
+        "pokedexNumber": 267,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "onix",
@@ -1964,7 +2152,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 150
+        "pokedexNumber": 150,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "ortide",
@@ -1974,7 +2163,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 12
+        "pokedexNumber": 12,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "ortide_fullart",
@@ -1984,7 +2174,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 228
+        "pokedexNumber": 228,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "ossatueur",
@@ -1994,7 +2185,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 152
+        "pokedexNumber": 152,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "ossatueur_ex",
@@ -2004,7 +2196,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 153
+        "pokedexNumber": 153,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "ossatueur_ex_fullart",
@@ -2014,7 +2207,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 264
+        "pokedexNumber": 264,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "osselait",
@@ -2024,7 +2218,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 151
+        "pokedexNumber": 151,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "osselait_fullart",
@@ -2034,7 +2229,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 239
+        "pokedexNumber": 239,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "otaria",
@@ -2044,7 +2240,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 64
+        "pokedexNumber": 64,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "papilusion",
@@ -2054,7 +2251,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 7
+        "pokedexNumber": 7,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "paras",
@@ -2064,7 +2262,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 14
+        "pokedexNumber": 14,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "parasect",
@@ -2074,7 +2273,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 15
+        "pokedexNumber": 15,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "pashmilla",
@@ -2086,7 +2286,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 213
+        "pokedexNumber": 213,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "persian",
@@ -2096,7 +2297,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 197
+        "pokedexNumber": 197,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "piafabec",
@@ -2106,7 +2308,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 191
+        "pokedexNumber": 191,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "pierre",
@@ -2116,7 +2319,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 224
+        "pokedexNumber": 224,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "pierre_fullart",
@@ -2126,7 +2330,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 271
+        "pokedexNumber": 271,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "pikachu",
@@ -2136,7 +2341,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 94
+        "pokedexNumber": 94,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "pikachu_ex",
@@ -2146,7 +2352,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 96
+        "pokedexNumber": 96,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "pikachu_ex_fullart",
@@ -2156,7 +2363,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 259
+        "pokedexNumber": 259,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "pikachu_gold",
@@ -2168,7 +2376,8 @@
         ],
         "rarity": "1c",
         "owned": false,
-        "pokedexNumber": 285
+        "pokedexNumber": 285,
+        "prob_normale": 0.0006599310999999553
     },
     {
         "name": "pikachu_immersive",
@@ -2178,17 +2387,19 @@
         ],
         "rarity": "3e",
         "owned": false,
-        "pokedexNumber": 281
+        "pokedexNumber": 281,
+        "prob_normale": 0.011080286400000028
     },
     {
-        "name": "poissirène",
+        "name": "poissir\u00e8ne",
         "booster": [
             "Global",
             "Booster Pikachu"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 72
+        "pokedexNumber": 72,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "poissoroy",
@@ -2198,7 +2409,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 73
+        "pokedexNumber": 73,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "ponyta",
@@ -2210,7 +2422,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 42
+        "pokedexNumber": 42,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "porygon",
@@ -2220,7 +2433,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 209
+        "pokedexNumber": 209,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "porygon_fullart",
@@ -2230,7 +2444,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 249
+        "pokedexNumber": 249,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "poulpaf",
@@ -2242,7 +2457,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 162
+        "pokedexNumber": 162,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "psykokwak",
@@ -2254,17 +2470,19 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 57
+        "pokedexNumber": 57,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "ptéra",
+        "name": "pt\u00e9ra",
         "booster": [
             "Global",
             "Booster Mewtwo"
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 210
+        "pokedexNumber": 210,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "ptitard",
@@ -2274,7 +2492,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 59
+        "pokedexNumber": 59,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "pyroli",
@@ -2284,7 +2503,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 45
+        "pokedexNumber": 45,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "racaillou",
@@ -2294,7 +2514,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 147
+        "pokedexNumber": 147,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "rafflesia",
@@ -2304,7 +2525,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 13
+        "pokedexNumber": 13,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "raichu",
@@ -2314,7 +2536,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 95
+        "pokedexNumber": 95,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "ramoloss",
@@ -2326,7 +2549,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 118
+        "pokedexNumber": 118,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "ramoloss_fullart",
@@ -2336,7 +2560,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 237
+        "pokedexNumber": 237,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "rapasdepic",
@@ -2346,7 +2571,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 192
+        "pokedexNumber": 192,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "rattata",
@@ -2358,7 +2584,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 189
+        "pokedexNumber": 189,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "rattatac",
@@ -2370,7 +2597,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 190
+        "pokedexNumber": 190,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "reptincel",
@@ -2380,7 +2608,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 34
+        "pokedexNumber": 34,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "rhinocorne",
@@ -2390,17 +2619,19 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 156
+        "pokedexNumber": 156,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "rhinoféros",
+        "name": "rhinof\u00e9ros",
         "booster": [
             "Global",
             "Booster Mewtwo"
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 157
+        "pokedexNumber": 157,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "rhinolove",
@@ -2412,7 +2643,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 134
+        "pokedexNumber": 134,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "rondoudou",
@@ -2422,7 +2654,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 193
+        "pokedexNumber": 193,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "ronflex",
@@ -2432,7 +2665,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 211
+        "pokedexNumber": 211,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "ronflex_fullart",
@@ -2442,7 +2676,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 250
+        "pokedexNumber": 250,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "roucarnage",
@@ -2452,7 +2687,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 188
+        "pokedexNumber": 188,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "roucarnage_fullart",
@@ -2462,7 +2698,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 245
+        "pokedexNumber": 245,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "roucool",
@@ -2472,7 +2709,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 186
+        "pokedexNumber": 186,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "roucoups",
@@ -2482,7 +2720,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 187
+        "pokedexNumber": 187,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "sabelette",
@@ -2494,7 +2733,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 137
+        "pokedexNumber": 137,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "sablaireau",
@@ -2506,27 +2746,30 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 138
+        "pokedexNumber": 138,
+        "prob_normale": 0.019666933060000003
     },
     {
-        "name": "salamèche",
+        "name": "salam\u00e8che",
         "booster": [
             "Global",
             "Booster Dracaufeu"
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 33
+        "pokedexNumber": 33,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "salamèche_fullart",
+        "name": "salam\u00e8che_fullart",
         "booster": [
             "Global",
             "Booster Dracaufeu"
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 230
+        "pokedexNumber": 230,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "saquedeneu",
@@ -2536,7 +2779,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 24
+        "pokedexNumber": 24,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "scalpion",
@@ -2548,7 +2792,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 179
+        "pokedexNumber": 179,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "scalproie",
@@ -2560,7 +2805,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 180
+        "pokedexNumber": 180,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "scarabrute",
@@ -2572,7 +2818,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 26
+        "pokedexNumber": 26,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "scarabrute_fullart",
@@ -2582,7 +2829,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 229
+        "pokedexNumber": 229,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "scolocendre",
@@ -2594,7 +2842,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 52
+        "pokedexNumber": 52,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "shaofouine",
@@ -2604,7 +2853,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 161
+        "pokedexNumber": 161,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "smogo",
@@ -2614,7 +2864,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 176
+        "pokedexNumber": 176,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "smogogo",
@@ -2624,7 +2875,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 177
+        "pokedexNumber": 177,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "smogogo_fullart",
@@ -2634,7 +2886,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 243
+        "pokedexNumber": 243,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "soporifik",
@@ -2644,7 +2897,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 124
+        "pokedexNumber": 124,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "spectrum",
@@ -2654,7 +2908,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 121
+        "pokedexNumber": 121,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "stari",
@@ -2664,7 +2919,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 74
+        "pokedexNumber": 74,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "staross",
@@ -2674,7 +2930,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 75
+        "pokedexNumber": 75,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "staross_ex",
@@ -2684,7 +2941,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 76
+        "pokedexNumber": 76,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "staross_ex_fullart",
@@ -2694,7 +2952,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 257
+        "pokedexNumber": 257,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "sulfura",
@@ -2704,7 +2963,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 46
+        "pokedexNumber": 46,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "sulfura_ex",
@@ -2714,7 +2974,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 47
+        "pokedexNumber": 47,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "sulfura_ex_fullart",
@@ -2724,7 +2985,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 255
+        "pokedexNumber": 255,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "sulfura_ex_rainbow",
@@ -2734,7 +2996,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 274
+        "pokedexNumber": 274,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "tadmorv",
@@ -2744,7 +3007,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 174
+        "pokedexNumber": 174,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "tarsal",
@@ -2754,7 +3018,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 130
+        "pokedexNumber": 130,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "tartard",
@@ -2764,7 +3029,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 61
+        "pokedexNumber": 61,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "taupiqueur",
@@ -2774,7 +3040,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 139
+        "pokedexNumber": 139,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "taupiqueur_fullart",
@@ -2784,7 +3051,8 @@
         ],
         "rarity": "1e",
         "owned": false,
-        "pokedexNumber": 238
+        "pokedexNumber": 238,
+        "prob_normale": 0.016028719400000058
     },
     {
         "name": "tauros",
@@ -2794,7 +3062,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 204
+        "pokedexNumber": 204,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "tentacool",
@@ -2804,7 +3073,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 62
+        "pokedexNumber": 62,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "tentacruel",
@@ -2814,7 +3084,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 63
+        "pokedexNumber": 63,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "tetarte",
@@ -2824,7 +3095,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 60
+        "pokedexNumber": 60,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "tortank",
@@ -2834,7 +3106,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 55
+        "pokedexNumber": 55,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "tortank_ex",
@@ -2844,7 +3117,8 @@
         ],
         "rarity": "4l",
         "owned": false,
-        "pokedexNumber": 56
+        "pokedexNumber": 56,
+        "prob_normale": 0.016605644400000008
     },
     {
         "name": "tortank_ex_fullart",
@@ -2854,7 +3128,8 @@
         ],
         "rarity": "2e",
         "owned": false,
-        "pokedexNumber": 256
+        "pokedexNumber": 256,
+        "prob_normale": 0.002498999999999918
     },
     {
         "name": "triopikeur",
@@ -2864,7 +3139,8 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 140
+        "pokedexNumber": 140,
+        "prob_normale": 0.019666933060000003
     },
     {
         "name": "tritox",
@@ -2874,7 +3150,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 49
+        "pokedexNumber": 49,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "tygnon",
@@ -2884,7 +3161,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 155
+        "pokedexNumber": 155,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "vieil_ambre",
@@ -2894,7 +3172,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 218
+        "pokedexNumber": 218,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "voltali",
@@ -2904,7 +3183,8 @@
         ],
         "rarity": "3l",
         "owned": false,
-        "pokedexNumber": 102
+        "pokedexNumber": 102,
+        "prob_normale": 0.01779902039999992
     },
     {
         "name": "voltorbe",
@@ -2914,7 +3194,8 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 99
+        "pokedexNumber": 99,
+        "prob_normale": 0.05880800000000008
     },
     {
         "name": "wattapik",
@@ -2926,10 +3207,11 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 112
+        "pokedexNumber": 112,
+        "prob_normale": 0.019666933060000003
     },
     {
-        "name": "zébibron",
+        "name": "z\u00e9bibron",
         "booster": [
             "Global",
             "Booster Dracaufeu",
@@ -2938,10 +3220,11 @@
         ],
         "rarity": "1l",
         "owned": false,
-        "pokedexNumber": 105
+        "pokedexNumber": 105,
+        "prob_normale": 0.05880800000000008
     },
     {
-        "name": "zéblitz",
+        "name": "z\u00e9blitz",
         "booster": [
             "Global",
             "Booster Dracaufeu",
@@ -2950,6 +3233,7 @@
         ],
         "rarity": "2l",
         "owned": false,
-        "pokedexNumber": 106
+        "pokedexNumber": 106,
+        "prob_normale": 0.019666933060000003
     }
 ]
