@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background: linear-gradient(90deg, #4e54c8, #8f94fb);
+    background: linear-gradient(180deg, #333333, #d84040);
     color: rgb(0, 0, 0);
     padding: 2rem 1rem;
     text-align: center;
@@ -23,7 +23,7 @@ header h1 {
 
 /* ====== Navigation Tabs ====== */
 nav {
-    background-color: #d84040;
+    background: linear-gradient(180deg, #d84040, #333333);
     padding: 1rem;
     display: flex;
     flex-direction: column;
