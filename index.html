@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokemon TCG Pocket Tracker</title>
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/drop_down_side.css">
 </head>
 <body>
     <header>
@@ -23,9 +24,63 @@
                 <input type="file" id="load-file" accept=".json"/>
             </div>
         </nav>
+
+        <!-- Menu latéral -->
+        <aside id="side-menu" class="collapsed">
+            <button id="toggle-side-menu">✔</button>
+            <ul>
+                <li><button id="reset-ownership">Réinitialiser</button></li>
+                <li><button class="open-modal" data-modal="sort-modal">Trier</button></li>
+                <li><button class="open-modal" data-modal="filter-modal">Filtre</button></li>
+                <li><button class="open-modal" data-modal="settings-modal">Paramètres</button></li>
+                <li><button class="open-modal" data-modal="help-modal">Aide d'utilisation</button></li>
+            </ul>
+        </aside>
+
+        <!-- Modale pour "Trier" -->
+        <div id="sort-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <h2>Trier</h2>
+                <!-- Contenu du tri ici -->
+            </div>
+        </div>
+        
+        <!-- Modale pour "Filtre" -->
+        <div id="filter-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <h2>Filtre</h2>
+                <!-- Contenu du filtre ici -->
+            </div>
+        </div>
+        
+        <!-- Modale pour "Paramètres" -->
+        <div id="settings-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <h2>Paramètres</h2>
+                <!-- Contenu des paramètres ici -->
+            </div>
+        </div>
+        
+        <!-- Modale pour "Aide d'utilisation" -->
+        <div id="help-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <h2>Aide d'utilisation</h2>
+                <!-- Contenu d'aide ici -->
+            </div>
+        </div>
+
+        <!-- Overlay global qui désactive le reste de la page -->
+        <div id="global-overlay"></div>
+        
         <section id="card-display"></section>
     </main>
     <script src="js/script.js"></script>
     <script src="js/(en-de)rouler.js"></script>
+    <script src="js/drop_down_side.js"></script>
+    <script src="js/global-overlay.js"></script>
 </body>
 </html>

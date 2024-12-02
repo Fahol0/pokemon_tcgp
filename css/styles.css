@@ -21,6 +21,18 @@ header h1 {
     text-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
+#global-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 500;
+}
+
+
 /* ====== Navigation Tabs ====== */
 nav {
     background: linear-gradient(180deg, #d84040, #303030);
@@ -30,7 +42,7 @@ nav {
     align-items: center;
     position: sticky;
     top: 0;
-    z-index: 1000;
+    z-index: 200;
 }
 
 nav ul {
@@ -119,7 +131,7 @@ nav ul li.active {
 #toggle-tabs-button {
     position: absolute;
     bottom: 0;
-    right: 0;
+    left: 0;
     background-color: #333333;
     color: #ffffff;
     border: none;
@@ -127,7 +139,7 @@ nav ul li.active {
     cursor: pointer;
     border-radius: 10px 10px 10px 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-    z-index: 990;
+    z-index: 100;
     transition: background-color 0.3s ease;
 }
 

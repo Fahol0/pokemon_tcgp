@@ -1,0 +1,102 @@
+/* === Menu déroulant sur le côté === */
+#side-menu {
+    position: fixed;
+    top: 0;
+    right: -250px; /* Le menu est caché à droite */
+    width: 250px;
+    height: 100%;
+    background-color: #333;
+    color: #fff;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.3);
+    transition: right 0.3s ease;
+    z-index: 1035;
+    padding: 20px;
+}
+
+#side-menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+#side-menu ul li {
+    margin-bottom: 20px;
+}
+
+#side-menu ul li button {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    display: block;
+    width: 100%;
+}
+
+#side-menu ul li button:hover {
+    background-color: #555;
+}
+
+/* === Coche pour afficher/masquer === */
+#toggle-side-menu {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 1.5rem;
+    border-radius: 50%;
+    z-index: 1050;
+}
+
+#toggle-side-menu:hover {
+    background-color: #555;
+}
+
+/* === Classe lorsque le menu est affiché === */
+#side-menu.open {
+    right: 0; /* Dévoile le menu */
+}
+
+/* === Style pour les modales === */
+.modal {
+    display: none; /* Les modales sont cachées par défaut */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1051;
+    width: 80%;
+    max-width: 500px;
+}
+
+.modal-content {
+    position: relative;
+}
+
+.close-modal {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+/* Overlay derrière la modale */
+.modal-overlay {
+    display: none; /* Pas visible par défaut */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1040;
+}

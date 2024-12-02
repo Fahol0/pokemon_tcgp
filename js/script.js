@@ -1,5 +1,3 @@
-// script.js
-
 // variables globales
 let cardDate = [];
 
@@ -20,12 +18,11 @@ let proba_dracaufau;
 let proba_mewtwo;
 let proba_pikachu;
 
-// Initialisation
+/*====================INITIALIZE APP====================*/
 document.addEventListener("DOMContentLoaded", () => {
     const tabs = document.getElementById("booster-tabs");
     const display = document.getElementById("card-display");
 
-    // Charger les données depuis le fichier JSON
     fetch("data/pokemons.json")
         .then((response) => {
             if (!response.ok) {
@@ -34,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
             return response.json();
         })
         .then((data) => {
-            cardData = data; // Assigner les données chargées
+            cardData = data;
             initializeApp();
         })
         .catch((error) => console.error("Erreur lors du chargement des données:", error));
@@ -60,10 +57,8 @@ document.addEventListener("DOMContentLoaded", () => {
             tabs.appendChild(li);
         });
         
-        // Afficher l’onglet "Global" par défaut
         displayBooster("Global");
         
-        // Calculer les probabilités pour chaque booster
         calculateBoosterProbability();
         
         document.getElementById("Booster Dracaufeu-probability").textContent = `Probabilité : ${(proba_dracaufeu * 100 / 4.1272).toFixed(2)}%`;
@@ -71,7 +66,8 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("Booster Pikachu-probability").textContent = `Probabilité : ${(proba_pikachu * 100 / 4.1272).toFixed(2)}%`;
     }
 
-    // Références aux boutons de sauvegarde et chargement
+
+    /*====================SAVE AND LOAD DATA====================*/
     const saveButton = document.getElementById("save-button");
     const loadButton = document.getElementById("load-button");
     const loadFileInput = document.getElementById("load-file");
@@ -85,11 +81,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Sauvegarde les données des cartes actuelles dans un fichier JSON.
     function saveData() {
-        const dataToSave = JSON.stringify(cardData, null, 2); // Mise en forme lisible
+        const dataToSave = JSON.stringify(cardData, null, 2);
         const blob = new Blob([dataToSave], { type: "application/json" });
         const a = document.createElement("a");
         a.href = URL.createObjectURL(blob);
-        a.download = "pokemon_cards.json"; // Nom du fichier généré
+        a.download = "pokemon_cards.json";
         a.click();
         URL.revokeObjectURL(a.href);
     }
@@ -99,7 +95,6 @@ document.addEventListener("DOMContentLoaded", () => {
         const file = event.target.files[0];
         if (!file) return;
 
-        // Vérification de l'extension du fichier
         const fileExtension = file.name.split('.').pop();
         if (fileExtension !== "json") {
             alert("Le fichier sélectionné n'est pas un fichier JSON.");
@@ -109,11 +104,11 @@ document.addEventListener("DOMContentLoaded", () => {
         const reader = new FileReader();
         reader.onload = (e) => {
             try {
-                const newData = JSON.parse(e.target.result); // Analyse le JSON
+                const newData = JSON.parse(e.target.result);
                 if (Array.isArray(newData)) {
-                    cardData = newData; // Remplace les données actuelles
-                    calculateBoosterProbability(); // Recalcule les probabilités avec les nouvelles données
-                    initializeApp(); // Réinitialise l'application avec les nouvelles données
+                    cardData = newData;
+                    calculateBoosterProbability();
+                    initializeApp();
                     alert("Les données ont été chargées avec succès !");
                 } else {
                     alert("Le fichier JSON n'est pas valide.");
@@ -128,12 +123,10 @@ document.addEventListener("DOMContentLoaded", () => {
     function displayBooster(booster) {
         activeBooster = booster;
 
-        // Mettre à jour les onglets actifs
         Array.from(tabs.children).forEach((tab) => {
             tab.classList.toggle("active", tab.textContent.includes(booster));
         });
     
-        // Afficher les cartes
         display.innerHTML = "";
         const filteredCards = cardData
             .filter((card) => card.booster.includes(booster))
@@ -153,22 +146,18 @@ document.addEventListener("DOMContentLoaded", () => {
             display.appendChild(cardDiv);
         });
 
-        //Recalculer la probabilité si ce n'est pas l'onglet global
         if (booster !== "Global") updateProbability(booster);
     }    
 
     function toggleCard(card) {
-        // Met à jour l'état de la carte
         card.owned = !card.owned;
-
-        // Mettre à jour la probabilité de tous les boosters où la carte est présente
         const action = card.owned ? "remove" : "add";
         updateProbability(card, action);
-
-        // Synchronise l'affichage
         displayBooster(activeBooster);
     }
 
+
+    /*====================CALCULATE PROBABILITY====================*/
     function calculateBoosterProbability() {
         proba_dracaufeu = 0;
         proba_mewtwo = 0;
@@ -233,12 +222,4 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         });
     }
-
-    document.addEventListener("DOMContentLoaded", () => {
-        const warningButton = document.getElementById("warning-button");
-    
-        warningButton.addEventListener("onmouseover", () => {
-            alert("⚠️ GROS WARNING : Une erreur s'est produite !");
-        });
-    });
 });
