@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
+<head id="head">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokemon TCG Pocket Tracker</title>
@@ -11,21 +11,21 @@
         <h1>Pokemon TCG Pocket Tracker</h1>
     </header>
     <main>
-        <nav>
+        <nav id="menu">
             <!-- Onglets pour chaque booster -->
             <ul id="booster-tabs"></ul>
+            <!-- Bouton pour enrouler/dérouler le menu des onglets -->
+            <button id="toggle-tabs-button">▲</button>
             <!-- Boutons de sauvegarde et chargement -->
             <div id="save-load-controls">
                 <button id="load-button">Charger</button>
                 <button id="save-button">Sauvegarder</button>
-                <input type="file" id="load-file" accept=".json" style="display: none;" />
-            </div>
-            <div id="tabs-footer">
-                <small>* Probabilité d'avoir une nouvelle carte</small>
+                <input type="file" id="load-file" accept=".json"/>
             </div>
         </nav>
         <section id="card-display"></section>
     </main>
     <script src="js/script.js"></script>
+    <script src="js/(en-de)rouler.js"></script>
 </body>
 </html>

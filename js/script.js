@@ -233,4 +233,12 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         });
     }
+
+    document.addEventListener("DOMContentLoaded", () => {
+        const warningButton = document.getElementById("warning-button");
+    
+        warningButton.addEventListener("onmouseover", () => {
+            alert("⚠️ GROS WARNING : Une erreur s'est produite !");
+        });
+    });
 });
