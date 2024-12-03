@@ -131,8 +131,7 @@ nav ul li.active {
 
 #tabs-footer {
     position: absolute;
-    bottom: 5px;
-    left: 10px;
+    top: 0;
     font-size: 12px;
     color: black;
 }

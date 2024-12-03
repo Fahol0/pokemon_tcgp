@@ -120,6 +120,8 @@ document.addEventListener("DOMContentLoaded", () => {
         reader.readAsText(file);
     }
 
+    /*====================DISPLAY WINDOW====================*/
+
     function displayBooster(booster) {
         activeBooster = booster;
 
